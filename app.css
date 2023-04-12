@@ -3,6 +3,7 @@
   height: 300px;
   border: 1px solid #000;
   display: grid;
+  gap: 4px;
   grid-template-columns: repeat(40, 20px);
   justify-content: flex-end;
   align-items: flex-end;

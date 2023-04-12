@@ -37,7 +37,7 @@ for (let i = 0; i < 40; i++) {
   queueChart.appendChild(queueBar);
 }
 
-// Opdater kø-diagrammet hvert sekund
+// Opdatere kø hvert sekund
 setInterval(updateChart, 1000);
 
 // Funktion der giver et tilfældigt antal kunder
